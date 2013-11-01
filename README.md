@@ -29,9 +29,9 @@ In your web page:
 </ul>
 <div>
   Check 
-  <a href="javascript:;">All</a> /
-  <a href="javascript:;">Nothing</a> /
-  <a href="javascript:;">Reverse</a>
+  <a href="javascript:;" data-toggle="checkall" data-target="input[name=room]" data-checked="true">All</a> /
+  <a href="javascript:;" data-toggle="checkall" data-target="input[name=room]" data-checked="false">Nothing</a> /
+  <a href="javascript:;" data-toggle="checkall" data-target="input[name=room]" data-reverse="true">Reverse</a>
 </div>
 ```
 
