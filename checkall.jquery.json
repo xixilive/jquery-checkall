@@ -1,0 +1,27 @@
+{
+  "name": "checkall",
+  "title": "jQuery Checkall",
+  "description": "To check on/off a group of checkbox via a master checkbox, a radio button, even a link.",
+  "version": "0.0.1",
+  "homepage": "https://github.com/xixilive/jquery-checkall",
+  "author": {
+    "name": "xixilive",
+    "email": "xixilive@gmail.com",
+    "url": "https://github.com/xixilive"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/xixilive/jquery-checkall.git"
+  },
+  "bugs": "https://github.com/xixilive/jquery-checkall/issues",
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "https://github.com/xixilive/jquery-checkall/blob/master/LICENSE-MIT"
+    }
+  ],
+  "dependencies": {
+    "jquery": ">= 1.6"
+  },
+  "keywords": ["checkbox", "radio", "checkall", "checked"]
+}
